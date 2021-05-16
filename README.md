@@ -1,5 +1,10 @@
 <h2>👋 Hola coders, I'm Trần Trung Kiên &nbsp;<img src="https://media1.giphy.com/media/5WjvTkh7sYGE4Jq3qA/giphy.gif" width="15"></h2>
 
+[![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:tran123456k@gmail.com)
+[![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/kirintran/)](https://www.linkedin.com/in/kirintran/)
+[![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://profile-summary-for-github.com/user/kien123456k)](https://profile-summary-for-github.com/user/kien123456k)
+[![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fzkirinz1511%2F)](https://www.instagram.com/zkirinz1511/)
+<br />
 
 
 - <img src="https://media2.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> I'm currently hard-core to get bachelor's degrees at [VNU HCMC FPT University](https://hcmuni.fpt.edu.vn/)

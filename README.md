@@ -1,13 +1,15 @@
 <h2>👋 Hola coders, I'm Trần Trung Kiên &nbsp;<img src="https://media1.giphy.com/media/5WjvTkh7sYGE4Jq3qA/giphy.gif" width="15"></h2>
 
-<img align='right' src="https://media0.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="360">
 
-- <img src="https://media2.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> I'm currently hard-core to get bachelor's degrees at <a href="https://hcmuni.fpt.edu.vn/" target="_blank">VNU HCMC FPT University</a>
+
+- <img src="https://media2.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> I'm currently hard-core to get bachelor's degrees at [VNU HCMC FPT University](https://hcmuni.fpt.edu.vn/)
+<img align='right' src="https://media0.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="400">
+
 - 🌱 I’m currently learning `Web Development`
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/kien123456k?tab=repositories)
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge". 
 - 🤝 I’m looking for help with **Advanced Math** 😭
-- 💬 Ask me about anything tech related and maybe some soft skills, I am happy if I can help.
+- 💬 Ask me about anything tech related and maybe some soft skills, I'm very happy if I can help.
 - ⚡ Fun fact: **Coders never stop coding, it just a longer interval between code times.**
 
 <h3 align="left">Languages and Tools:</h3>

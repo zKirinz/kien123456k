@@ -1,6 +1,6 @@
 <h2>👋 Hola coders, I'm Trần Trung Kiên &nbsp;<img src="https://media1.giphy.com/media/5WjvTkh7sYGE4Jq3qA/giphy.gif" width="15"></h2>
 
-<img align='right' src="https://media0.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="400">
+<img align='right' src="https://media0.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="360">
 
 - <img src="https://media2.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> I'm currently hard-core to get bachelor's degrees at <a href="https://hcmuni.fpt.edu.vn/" target="_blank">VNU HCMC FPT University</a>
 - 🌱 I’m currently learning `Web Development`

@@ -28,7 +28,10 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" align="left"  width="40" /> 
-  </a> 
+  </a>
+  <a href="https://graphql.org" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" align="left" width="40" /> 
+  </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" align="left" width="40" /> 
   </a>
@@ -37,6 +40,9 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
   </a>
   <a href="https://angular.io" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" align="left" width="40" /> 
+  </a>
+  <a href="https://nextjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" align="left" width="40" /> 
   </a>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" align="left" width="40" /> 
@@ -50,6 +56,12 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
   <a href="https://nestjs.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" align="left" width="40" />
   </a>
+  <a href="https://jestjs.io" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" align="left" width="40" /> 
+  </a>
+    <a href="https://www.cypress.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" align="left" width="40" /> 
+  </a>
 </p>
 
 </br></br>
@@ -57,9 +69,6 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
 <p align="left">
   <a href="https://flutter.dev" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" align="left" width="40" /> 
-  </a>
-  <a href="https://graphql.org" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" align="left" width="40" /> 
   </a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" align="left" width="40"/> 
@@ -70,9 +79,15 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" align="left" width="40"/> 
   </a>
+  <a href="https://postman.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" align="left" width="40" /> 
+  </a>
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" align="left" width="40" /> 
   </a>
+   <a href="https://www.linux.org/" target="_blank"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" align="left" width="40" />
+  </a> 
   <a href="https://www.docker.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" align="left" width="40" /> 
   </a>
@@ -85,11 +100,6 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" align="left" width="40" /> 
   </a>
-</p>
-
-</br></br>
-
-<p>
   <a href="https://www.photoshop.com/en" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" align="left" width="40" /> 
   </a>
@@ -100,31 +110,8 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" align="left" width="40" /> 
   </a>
 </p>
-  
 
-  <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
-  
-  
-   
-   
-    
- 
-   
-   
-  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  
-  
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> 
-  
-  
-  
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  
-  
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>  
-  
+</br></br>
 
 <h3 align="left"><img src="https://media0.giphy.com/media/f6ytzUt63xVLDDzONe/giphy.gif" width="32">&nbsp;&nbsp;How about some Stats?</h3>
 <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kien123456k&show_icons=true&locale=en&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="kien123456k" />

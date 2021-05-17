@@ -51,7 +51,7 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" align="left" width="38" />
   </a>
   <a href="https://www.fastify.io/" target="_blank"> 
-    <img src="https://icons-for-free.com/iconfiles/png/512/fastify-1324438156661837332.png" alt="fastify" align="left" width="38" />
+    <img src="https://icons-for-free.com/iconfiles/png/512/fastify-1324440156661837332.png" alt="fastify" align="left" width="38" />
   </a>
   <a href="https://nestjs.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" align="left" width="38" />

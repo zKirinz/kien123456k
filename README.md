@@ -25,9 +25,10 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
 <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kien123456k&show_icons=true&locale=en&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="kien123456k" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kien123456k&show_icons=true&locale=en&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="kien123456k" /></div>
 
-#
+<hr/>
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{kien123456k}/count.svg"/></p>
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
+  
+### Show some ❤️ by starring some of my repositories!
 </div>

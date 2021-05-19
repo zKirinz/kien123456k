@@ -9,14 +9,14 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/kirintran/)](https://www.linkedin.com/in/kirintran/)
 [![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://profile-summary-for-github.com/user/kien123456k)](https://profile-summary-for-github.com/user/kien123456k)
 [![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fzkirinz1511%2F)](https://www.instagram.com/zkirinz1511/)
-- 👨🏻‍💻 &nbsp; I am working at [F-Code](https://www.facebook.com/fcodefpt) as a `vice-president` and `design leader`.
+- 👨🏻‍💻 I am working at [F-Code](https://www.facebook.com/fcodefpt) as a `vice-president` and `design leader`.
 - <img src="https://media2.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30" />&nbsp;I’m currently learning `Web Development`.
-- 💻 &nbsp; Most of my projects are available on [Github](https://github.com/kien123456k?tab=repositories).
-- 🎯 &nbsp; Life Hack: ***"Sleeping with a problem, can actually solve it."***. 
-- 🤝 &nbsp; I’m looking for help with **Advanced Math** 😋
-- 🏆 &nbsp; You can find all my achievements on [Linkedin](https://www.linkedin.com/in/kirintran/).
-- 💬 &nbsp; Ask me about anything tech related and maybe some soft skills, I'm very happy if I can help.
-- ⚡ &nbsp; Fun fact: **I never stop coding, it just a longer interval between code lines.**
+- 💻 Most of my projects are available on [Github](https://github.com/kien123456k?tab=repositories).
+- 🎯 Life Hack: ***"Sleeping with a problem, can actually solve it."***. 
+- 🤝 I’m looking for help with **Advanced Math** 😋
+- 🏆 You can find all my achievements on [Linkedin](https://www.linkedin.com/in/kirintran/).
+- 💬 Ask me about anything tech related and maybe some soft skills, I'm very happy if I can help.
+- ⚡ Fun fact: **I never stop coding, it just a longer interval between code lines.**
 
 <h3 align="left"><img src="https://media1.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" width="30">&nbsp;&nbsp;Languages and Tools:</h3>
 <p align="left">

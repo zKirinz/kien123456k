@@ -16,7 +16,7 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
 - 🤝 I’m looking for help with **Advanced Math** 😋
 - 🏆 You can find all my achievements on [Linkedin](https://www.linkedin.com/in/kirintran/).
 - 💬 Ask me about anything tech related and maybe some soft skills, I'm very happy if I can help.
-- ⚡ Fun fact: **I never stop coding, it just a longer interval between code lines.**
+- ⚡ Fun fact: **I never stop coding, it just long intervals between code lines.**
 
 <h3 align="left"><img src="https://media1.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" width="30">&nbsp;&nbsp;Languages and Tools:</h3>
 <p align="left">

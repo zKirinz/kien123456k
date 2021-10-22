@@ -90,8 +90,8 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
 </br></br>
 
 <h3 align="left"><img src="https://media0.giphy.com/media/f6ytzUt63xVLDDzONe/giphy.gif" width="32">&nbsp;&nbsp;How about some Stats?</h3>
-<div align="center"><img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kien123456k&show_icons=true&locale=en&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="kien123456k" />
-<img height="178em" src="https://github-readme-stats.vercel.app/api?username=kien123456k&show_icons=true&locale=en&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="kien123456k" /></div>
+<div align="center"><img height="176em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kien123456k&show_icons=true&locale=en&layout=compact&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="kien123456k" />
+<img height="176em" src="https://github-readme-stats.vercel.app/api?username=kien123456k&show_icons=true&locale=en&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="kien123456k" /></div>
 
 <hr/>
 <h4 align="center">Visitor's count :eyes:</h4>

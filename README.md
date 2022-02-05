@@ -11,10 +11,11 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
 [![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fzkirinz1511%2F)](https://www.instagram.com/zkirinz1511/)
 - 👨🏻‍💻 I am working at [F-Code](https://www.facebook.com/fcodefpt) as a `vice-president` and `design leader`.
 - <img src="https://media2.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30" />&nbsp;I’m currently learning `Web Development`.
-- 💻 Most of my projects are available on [Github](https://github.com/kien123456k?tab=repositories).
 - 🎯 Life Hack: ***"Sleeping with a problem, can actually solve it."***. 
 - 🤝 I’m looking for help with **Advanced Math** 😋
+- 💻 Most of my projects are available on [Github](https://github.com/kien123456k?tab=repositories).
 - 🏆 You can find all my achievements on [Linkedin](https://www.linkedin.com/in/kirintran/).
+- 👨‍🏫 Checkout my portfolio at [kien-tran.tech](https://kien-tran.tech).
 - 💬 Ask me about anything tech related and maybe some soft skills, I'm very happy if I can help.
 - ⚡ Fun fact: **I never stop coding, it just long intervals between code lines.**
 

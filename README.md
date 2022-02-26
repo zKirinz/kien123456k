@@ -45,9 +45,6 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
   <a href="https://nestjs.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" align="left" width="36" />
   </a>
-  <a href="https://jestjs.io" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" align="left" width="36" /> 
-  </a>
   <a href="https://flutter.dev" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" align="left" width="36" /> 
   </a>
@@ -77,14 +74,11 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" align="left" width="36" /> 
   </a>
-  <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" align="left" width="36" /> 
+  <a href="https://aws.amazon.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" align="left" width="36" /> 
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" align="left" width="36" /> 
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" align="left" width="36" /> 
+  <a href="https://azure.microsoft.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" align="left" width="36" /> 
   </a>
 </p>
 

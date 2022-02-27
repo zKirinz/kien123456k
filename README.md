@@ -1,9 +1,9 @@
-<h2>👋 Hola coders, I'm Trần Trung Kiên aka Kirin &nbsp;<img src="https://media1.giphy.com/media/5WjvTkh7sYGE4Jq3qA/giphy.gif" width="15"></h2>
+<h1>👋 Hola coders, I'm Trần Trung Kiên aka Kirin &nbsp;<img src="https://media1.giphy.com/media/5WjvTkh7sYGE4Jq3qA/giphy.gif" width="15"></h1>
 
 I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](https://hcmuni.fpt.edu.vn/) - K15
 
 <img align='right' src="./svg/kientran.svg" width="450" height="240"></img>
-<h3 align="left">🧐&nbsp;&nbsp;Talking about Personal Stuffs:</h3>
+<h2 align="left">🧐&nbsp;&nbsp;Talking about Personal Stuffs:</h2>
 
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:tran123456k@gmail.com)
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/kirintran/)](https://www.linkedin.com/in/kirintran/)

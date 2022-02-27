@@ -8,7 +8,7 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/kirintran/)](https://www.linkedin.com/in/kirintran/)
 [![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://profile-summary-for-github.com/user/kien123456k)](https://profile-summary-for-github.com/user/kien123456k)
 [![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fzkirinz1511%2F)](https://www.instagram.com/zkirinz1511/)
-<img align='right' src="./svg/kientran.svg" width="360" height="300"></img>
+<img align='right' src="./svg/kientran.svg" width="360" height="360"></img>
 - 👨🏻‍💻 I am working at [F-Code](https://www.facebook.com/fcodefpt) as a `vice-president` and `design leader`.
 - <img src="https://media2.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30" />&nbsp;I’m currently learning `Web Development`.
 - 👨‍🏫 Checkout my portfolio [here](https://kien-tran.tech).

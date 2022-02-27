@@ -2,9 +2,9 @@
 
 I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](https://hcmuni.fpt.edu.vn/) - K15
 
-<img align='right' src="./svg/kientran.svg" width="450" height="240"></img>
 <h2 align="left">🧐&nbsp;&nbsp;Talking about Personal Stuffs:</h2>
 
+<img align='right' src="./svg/kientran.svg" width="400" height="240"></img>
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:tran123456k@gmail.com)
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/kirintran/)](https://www.linkedin.com/in/kirintran/)
 [![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://profile-summary-for-github.com/user/kien123456k)](https://profile-summary-for-github.com/user/kien123456k)

@@ -10,7 +10,7 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
 [![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fzkirinz1511%2F)](https://www.instagram.com/zkirinz1511/)
 <img align='right' src="./svg/kientran.svg" width="360" height="240"></img>
 - 👨🏻‍💻 I am a former `vice-president` and `design leader` of [F-Code](https://www.facebook.com/fcodefpt) academic club.
-- <img src="https://media2.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30" />&nbsp;I’m currently learning `Web Development`.
+- <img src="https://media2.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30" />&nbsp;I’m currently learning `Web` and `Blockchain Development`.
 - 👨‍🏫 Checkout my portfolio [here](https://kien-tran.tech).
 - 🤝 I’m looking for help with **Advanced Math** 😋
 - 💻 Most of my projects are available on [Github](https://github.com/kien123456k?tab=repositories).

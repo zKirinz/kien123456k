@@ -9,12 +9,13 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
 [![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://profile-summary-for-github.com/user/kien123456k)](https://profile-summary-for-github.com/user/kien123456k)
 [![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fzkirinz1511%2F)](https://www.instagram.com/zkirinz1511/)
 <img align='right' src="./svg/kientran.svg" width="360" height="240"></img>
-- 👨🏻‍💻 I am a former `vice-president` and `design leader` of [F-Code](https://www.facebook.com/fcodefpt) academic club.
+- 👨🏻‍💻 I am a former `vice-president` of [F-Code](https://www.facebook.com/fcodefpt) academic club.
 - <img src="https://media2.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30" />&nbsp;I’m currently learning `Web` and `Blockchain Development`.
 - 👨‍🏫 Checkout my portfolio [here](https://kien-tran.tech).
 - 🤝 I’m looking for help with **Advanced Math** 😋
 - 💻 Most of my projects are available on [Github](https://github.com/kien123456k?tab=repositories).
 - 🏆 You can find all my achievements on [Linkedin](https://www.linkedin.com/in/kirintran/).
+- 🔔 Subcribe me on [Youtube](https://www.youtube.com/channel/UCKEWhaqmw5GEJjLTpaU4pPA).
 - 💬 Ask me about anything tech related and maybe some soft skills, I'm very happy if I can help.
 
 <h2 align="center"><img src="https://media1.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" width="30">&nbsp;&nbsp;Technologies and Tools&nbsp;&nbsp;<img src="https://media1.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" width="30"></h2>

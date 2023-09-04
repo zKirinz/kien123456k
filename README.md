@@ -9,7 +9,7 @@ I'm presently hard-core to get bachelor's degrees at [VNU HCMC FPT University](h
 [![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://profile-summary-for-github.com/user/kien123456k)](https://profile-summary-for-github.com/user/kien123456k)
 [![Instagram](https://img.shields.io/twitter/url?label=Instagram&logo=instagram&style=social&url=https%3A%2F%2Fwww.instagram.com%2Fzkirinz1511%2F)](https://www.instagram.com/zkirinz1511/)
 <img align='right' src="./svg/kientran.svg" width="360" height="240"></img>
-- <img src="https://media2.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30" />&nbsp;I’m currently learning `Web` and `Blockchain Development`.
+- <img src="https://media2.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30" />&nbsp;I’m currently delving into `Web` (React & Java) and `Blockchain Development`.
 - 👨‍🏫 Checkout my portfolio [here](https://kien-tran.tech).
 - 💻 Most of my projects are available on [Github](https://github.com/kien123456k?tab=repositories).
 - 🏆 You can find all my achievements on [Linkedin](https://www.linkedin.com/in/kirintran/).
